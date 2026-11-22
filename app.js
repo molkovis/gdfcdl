@@ -58,7 +58,7 @@ import { buildPlayerRanking } from './ranking.js';
   };
   const initialize = async () => {
     try {
-      const [configResponse, levelsResponse, playersResponse] = await Promise.all([fetch(asset('data/config.json')), fetch(asset('data/levels.json')), fetch(asset('data/players.json'))]);
+      const [configResponse, levelsResponse, playersResponse] = await Promise.all([fetch(asset('data/config.json'), { cache: 'no-cache' }), fetch(asset('data/levels.json'), { cache: 'no-cache' }), fetch(asset('data/players.json'), { cache: 'no-cache' })]);
       if (!configResponse.ok || !levelsResponse.ok || !playersResponse.ok) throw new Error();
       state.config = await configResponse.json(); state.levels = await levelsResponse.json();
       const playerData = await playersResponse.json(); state.players = Array.isArray(playerData) ? playerData : Array.isArray(playerData?.players) ? playerData.players : [];
