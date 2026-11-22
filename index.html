@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#111922">
+  <title></title><link rel="icon" href="icon.jpg"><link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="GDFC Demonlist"><img id="brand-icon" src="icon.jpg" alt=""></a>
+    <a class="topbar-link topbar-link-left" id="top-levels-link" href="./#levels"></a>
+    <span class="topbar-title" id="site-name"></span>
+    <a class="topbar-link topbar-link-right" id="top-players-link" href="players.html"></a>
+  </header>
+  <section class="masthead"><img id="masthead-image" src="icon.jpg" alt="" class="masthead-image"><div class="masthead-shade"></div><div class="masthead-inner"><p class="eyebrow" id="hero-eyebrow"></p><h1 id="hero-title"></h1><p class="masthead-description" id="hero-description"></p></div></section>
+  <main class="page-shell">
+    <div class="list-heading"><h2 class="main-list-label" id="main-list-label"></h2><div class="list-total"><strong id="total-levels">—</strong><span id="total-label"></span></div></div>
+    <div class="content-layout">
+      <section class="list-column" id="levels" aria-label="Список уровней">
+        <div class="list-tools"><label class="search"><span>⌕</span><input id="search" type="search" autocomplete="off"><kbd>/</kbd></label></div>
+        <div id="level-grid" class="level-list" aria-live="polite"></div><div class="empty-state" id="empty-state" hidden></div><div class="pagination" id="pagination"></div>
+      </section>
+      <aside class="sidebar"><section class="side-block"><h3 id="side-title"></h3><p id="side-description"></p><div class="side-stats" id="stats"></div></section></aside>
+    </div>
+  </main>
+  <footer><span id="footer-name"></span><span id="footer-caption"></span><a href="#" id="back-top"><span id="back-top-label"></span> ↑</a></footer>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

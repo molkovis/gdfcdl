@@ -1,0 +1,8 @@
+{
+  "name": "gdfc-demonlist",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}

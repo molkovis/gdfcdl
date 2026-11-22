@@ -1,0 +1,128 @@
+{
+  "siteName": "GDFC DEMONLIST 3.0",
+  "language": "ru",
+  "branding": {
+    "icon": "icon.jpg",
+    "banner": "icon.jpg",
+    "headerTitle": "GDFC DEMONLIST",
+    "footerCaption": "GDFC · COMMUNITY PROJECT"
+  },
+  "navigation": {
+    "topLevels": { "label": "Топ уровней", "href": "./#levels" },
+    "topPlayers": { "label": "Топ игроков", "href": "players.html" }
+  },
+  "ranking": {
+    "enabled": true,
+    "formula": "exponential",
+    "maxPoints": 1000,
+    "minPoints": 40,
+    "decayFactor": 0.9583333333333334,
+    "maxPosition": 150,
+    "mainMaxPosition": 75,
+    "categoryLabels": { "main": "Main List", "extended": "Extended List" },
+    "countOnlyFullCompletions": true,
+    "countOnlyFirstCompletion": true
+  },
+  "playerRanking": {
+    "eyebrow": "GDFC / РЕЙТИНГ ИГРОКОВ",
+    "title": "Топ игроков",
+    "subtitle": "Очки начисляются за первые полные прохождения уровней из TOP 150. Текущие позиции пересчитываются при каждом открытии рейтинга.",
+    "formulaNote": "P(n) = round(40 + 960 × (23/24)^(n−1))",
+    "totalLabel": "игроков в рейтинге",
+    "searchPlaceholder": "Найти игрока…",
+    "countryFilterLabel": "Фильтр по стране",
+    "allCountriesLabel": "Все страны",
+    "selectPlayerTitle": "Сначала выберите игрока",
+    "selectPlayerMessage": "Нажмите на игрока, чтобы посмотреть его профиль",
+    "levelsLabel": "Пройденные уровни",
+    "pageSize": 25,
+    "previousPageLabel": "Назад",
+    "nextPageLabel": "Вперёд",
+    "emptyMessage": "Игроки с зачтёнными прохождениями не найдены.",
+    "columns": { "rank": "Место", "player": "Игрок", "completions": "Уровни", "best": "Лучший уровень", "points": "Очки" },
+    "topLabel": "ЛИДЕРЫ РЕЙТИНГА",
+    "pointsUnit": "очков",
+    "completionUnit": "полных прохождений",
+    "hardestLabel": "Лучший уровень",
+    "profileTitle": "Профиль игрока",
+    "profileMissing": "Игрок не найден",
+    "backLink": "К рейтингу игроков",
+    "historyTitle": "Зачтённые прохождения",
+    "dateLabel": "Дата",
+    "videoLabel": "Видео",
+    "noVideoLabel": "Нет видео",
+    "noPassesMessage": "У игрока пока нет зачтённых прохождений.",
+    "unrankedLabel": "Вне рейтинга",
+    "extendedListLabel": "Extended List",
+    "youtubeLabel": "YouTube",
+    "searchLabel": "Поиск игроков",
+    "profileLinkLabel": "Открыть профиль",
+    "demoDataNote": "Показаны демонстрационные данные. Реальные записи добавляются в JSON-файлы."
+  },
+  "hero": {
+    "eyebrow": "Geometry Dash · GDFC",
+    "title": "GDFC DEMONLIST 3.0",
+    "description": "Список уровней сообщества GDFC."
+  },
+  "list": {
+    "emptyMessage": "Ничего не найдено. Попробуй изменить запрос или категорию.",
+    "searchPlaceholder": "Найти уровень…",
+    "resultLabel": "уровней",
+    "totalLabel": "уровней в рейтинге",
+    "sideTitle": "Список GDFC",
+    "sideDescription": "Рейтинг демонов сообщества. Данные списка и условия публикации регулируются правилами GDFC.",
+    "victorCountLabel": "победителей",
+    "rowVictorLabel": "прохожд.",
+    "levelCountLabel": "уровней",
+    "pageSize": 20
+  },
+  "categories": [
+    { "id": "main", "name": "Main List" }
+  ],
+  "stats": [
+    { "label": "уровней в списке", "value": "levelCount" },
+    { "label": "победителей", "value": "victorCount" }
+  ],
+  "footerNote": "Geometry Dash — игра Роберта Топалы. GDFC Demonlist — проект сообщества.",
+  "interface": {
+    "backToTop": "Наверх",
+    "mainNavigationLabel": "Основная навигация",
+    "thumbnailAltPrefix": "Превью уровня",
+    "unknownDifficulty": "Demon",
+    "unknownLevelName": "Без названия",
+    "unknownCreator": "Автор не указан",
+    "unknownCategory": "Без категории",
+    "victorFallbackName": "Игрок"
+  },
+  "detail": {
+    "pageTitleSuffix": "Уровень",
+    "backLabel": "Вернуться к списку",
+    "notFoundTitle": "Уровень не найден",
+    "notFoundMessage": "Возможно, ссылка устарела или такой записи нет в списке.",
+    "backButton": "Вернуться к списку",
+    "victorsTitle": "Победители",
+    "victorsCountLabel": "игроков",
+    "noVictorsMessage": "Победители пока не добавлены.",
+    "showcaseLink": "Открыть showcase на YouTube",
+    "missingShowcase": "Showcase не добавлен",
+    "aboutTitle": "Об уровне",
+    "hallOfFame": "Зал славы",
+    "positionLabel": "Позиция",
+    "categoryLabel": "Категория",
+    "difficultyLabel": "Сложность",
+    "levelIdLabel": "Geometry Dash ID",
+    "creatorLabel": "Создатель",
+    "createdBy": "Уровень создан",
+    "videoLink": "Видео",
+    "missingVideo": "Видео не указано",
+    "missingValue": "—",
+    "levelIdPrefix": "ID",
+    "victorRankLabel": "Место",
+    "victorProfileLabel": "Профиль игрока"
+  },
+  "errors": {
+    "loadTitle": "Не удалось загрузить список",
+    "loadMessage": "Не удалось загрузить JSON-файлы.",
+    "serverHint": "Запустите проект через локальный HTTP-сервер."
+  }
+}

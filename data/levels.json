@@ -1,0 +1,6 @@
+[
+  { "id": "neon-test-01", "name": "Neon Overdrive (demo)", "position": 1, "category": "main", "difficulty": "Extreme Demon", "levelId": "DEMO-001", "creator": "Demo Creator", "showcase": "", "description": "Вымышленная демонстрационная запись для проверки карточки и страницы уровня.", "victors": [{ "playerId": "demo-player", "percent": 100, "date": "2026-01-15", "video": "" }] },
+  { "id": "void-test-02", "name": "Into the Void (demo)", "position": 2, "category": "main", "difficulty": "Extreme Demon", "levelId": "DEMO-002", "creator": "Demo Creator", "showcase": "", "description": "Вымышленный уровень. Замените запись реальными данными в JSON перед использованием списка.", "victors": [] },
+  { "id": "pixel-test-03", "name": "Pixel Burn (demo)", "position": 3, "category": "main", "difficulty": "Extreme Demon", "levelId": "DEMO-003", "creator": "Sample Studio", "showcase": "", "description": "Вымышленная демонстрационная запись.", "victors": [] },
+  { "id": "afterglow-test-04", "name": "Afterglow (demo)", "position": 4, "category": "main", "difficulty": "Insane Demon", "levelId": "DEMO-004", "creator": "Sample Studio", "showcase": "", "description": "Вымышленная демонстрационная запись.", "victors": [] }
+]
