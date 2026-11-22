@@ -17,7 +17,14 @@
     "levelId": "128526616",
     "creator": "GDeniiZ",
     "showcase": "https://youtu.be/aC96Zm4kEaA",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2020-11-11",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "sigareta",
