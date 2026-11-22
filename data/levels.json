@@ -23,13 +23,19 @@
     "category": "main",
     "levelId": "128526616",
     "creator": "GDeniiZ",
-    "showcase": "https://youtu.be/aC96Zm4kEaA",
+    "showcase": "https://youtu.be/pviDUxHWvxE",
     "victors": [
       {
         "playerId": "1",
         "percent": 100,
         "date": "2020-11-11",
         "video": "https://youtu.be/fgyaO-r6fI4"
+      },
+      {
+        "playerId": "8",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": "https://youtu.be/aC96Zm4kEaA"
       }
     ]
   },
