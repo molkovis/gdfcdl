@@ -7,7 +7,14 @@
     "levelId": "152158205",
     "creator": "Ardit",
     "showcase": "https://youtu.be/FmEs-PiVcnI",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "death-corridor",
@@ -34,7 +41,20 @@
     "levelId": "128426402",
     "creator": "Ardit",
     "showcase": "https://youtu.be/ZWQEg7zUxVM",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "singularity",
@@ -44,7 +64,26 @@
     "levelId": "128480238",
     "creator": "SirFox",
     "showcase": "https://youtu.be/17OEKXiQ-Ek",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "3",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "sakupen-circles-x",
@@ -54,7 +93,20 @@
     "levelId": "128480145",
     "creator": "dlmaw",
     "showcase": "https://youtu.be/aM4DUzRUvm0",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "apocalypse",
@@ -64,7 +116,14 @@
     "levelId": "128563588",
     "creator": "Ardit",
     "showcase": "https://youtu.be/7RhymOUSfK4",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "legenda",
@@ -74,7 +133,20 @@
     "levelId": "83790169",
     "creator": "Ardit",
     "showcase": "https://youtu.be/nVm6ThcIvaA",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "xl-circles",
@@ -84,7 +156,14 @@
     "levelId": "152685614",
     "creator": "Ardit",
     "showcase": "https://youtu.be/1LlfmhKYo1s",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "femboy-circles",
@@ -94,7 +173,38 @@
     "levelId": "152633245",
     "creator": "selefeo",
     "showcase": "https://youtu.be/VfE21w9uHqg",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "3",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "4",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "5",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "rozhler",
@@ -104,7 +214,20 @@
     "levelId": "68469954",
     "creator": "danyafox",
     "showcase": "https://www.youtube.com/watch?v=Oi79am5kmO4",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "pyrolysis",
@@ -114,7 +237,14 @@
     "levelId": "144786957",
     "creator": "Ardit",
     "showcase": "",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "firework",
@@ -124,7 +254,20 @@
     "levelId": "152753375",
     "creator": "dlmaw",
     "showcase": "",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "mycropolis",
@@ -134,7 +277,14 @@
     "levelId": "152633153",
     "creator": "Ardit",
     "showcase": "https://youtu.be/VY122C9lPp8",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "the-anomaly",
@@ -144,7 +294,14 @@
     "levelId": "128426452",
     "creator": "Ardit",
     "showcase": "https://youtu.be/RZhNZbZVtv0",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "troglodyte",
@@ -154,7 +311,14 @@
     "levelId": "144350184",
     "creator": "Ardit",
     "showcase": "https://youtu.be/aR-f03MsC4o",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "tartarus",
@@ -164,7 +328,26 @@
     "levelId": "152115917",
     "creator": "selefeo",
     "showcase": "https://youtu.be/XCRixr_CItg",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "4",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "sakupen-circles",
@@ -174,7 +357,32 @@
     "levelId": "128602847",
     "creator": "selefeo",
     "showcase": "https://youtu.be/WpZM4Jau02k",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "4",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "3",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "headrush",
@@ -184,7 +392,20 @@
     "levelId": "152686023",
     "creator": "dlmaw",
     "showcase": "https://youtu.be/dppKq2AV13s",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "six-cubes",
@@ -194,7 +415,20 @@
     "levelId": "152685922",
     "creator": "dlmaw",
     "showcase": "https://youtu.be/OGDalcfR80U",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "new-server",
@@ -204,7 +438,14 @@
     "levelId": "152753367",
     "creator": "Ardit",
     "showcase": "https://youtu.be/sWZH5tGibEs",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "393",
@@ -214,7 +455,14 @@
     "levelId": "152685678",
     "creator": "Ardit",
     "showcase": "https://youtu.be/7FxP5foLM7M",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "triplet",
@@ -224,7 +472,14 @@
     "levelId": "152633517",
     "creator": "GDeniiZ",
     "showcase": "",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "the-hell-rose",
@@ -234,7 +489,14 @@
     "levelId": "128426405",
     "creator": "4ikysya",
     "showcase": "",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "arx",
@@ -244,7 +506,26 @@
     "levelId": "128526593",
     "creator": "GDeniiZ",
     "showcase": "https://youtu.be/xU5T_jFZyvo",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "4",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "modern-blossom",
@@ -254,7 +535,14 @@
     "levelId": "128426408",
     "creator": "selefeo",
     "showcase": "https://youtu.be/mPc9w7Pbajs",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   },
   {
     "id": "blade-of-gdfc",
@@ -264,6 +552,19 @@
     "levelId": "128480328",
     "creator": "GDeniiZ",
     "showcase": "https://youtube.com/shorts/yBOFmYFEpzg?si=cF2bw9loa8ijR_Ki",
-    "victors": []
+    "victors": [
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "4",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      }
+    ]
   }
 ]
