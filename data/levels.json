@@ -290,6 +290,12 @@
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
+      },
+      {
+        "playerId": "6",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
       }
     ]
   },
@@ -310,6 +316,12 @@
       },
       {
         "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "6",
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
@@ -440,6 +452,12 @@
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
+      },
+      {
+        "playerId": "6",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
       }
     ]
   },
@@ -486,6 +504,12 @@
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
+      },
+      {
+        "playerId": "6",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
       }
     ]
   },
@@ -509,6 +533,12 @@
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
+      },
+      {
+        "playerId": "6",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
       }
     ]
   },
@@ -523,6 +553,12 @@
     "victors": [
       {
         "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "6",
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
@@ -543,6 +579,12 @@
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
+      },
+      {
+        "playerId": "7",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
       }
     ]
   },
@@ -556,19 +598,25 @@
     "showcase": "https://youtu.be/xU5T_jFZyvo",
     "victors": [
       {
-        "playerId": "1",
-        "percent": 100,
-        "date": "2026-11-22",
-        "video": ""
-      },
-      {
         "playerId": "2",
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
       },
       {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
         "playerId": "4",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "6",
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
@@ -595,6 +643,12 @@
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
+      },
+      {
+        "playerId": "6",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
       }
     ]
   },
@@ -615,6 +669,12 @@
       },
       {
         "playerId": "4",
+        "percent": 100,
+        "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "6",
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
