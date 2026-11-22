@@ -1,64 +1,262 @@
 [
   {
-    "id": "neon-test-01",
-    "name": "Neon Overdrive (demo)",
+    "id": "white-wave-ii",
+    "name": "White Wave II",
     "position": 1,
     "category": "main",
-    "difficulty": "Extreme Demon",
-    "levelId": "DEMO-001",
-    "creator": "Demo Creator",
-    "showcase": "",
-    "description": "Вымышленная демонстрационная запись для проверки карточки и страницы уровня.",
-    "victors": [
-      {
-        "playerId": "demo-player",
-        "percent": 100,
-        "date": "2026-01-15",
-        "video": ""
-      }
-    ]
-  },
-  {
-    "id": "void-test-02",
-    "name": "Into the Void (demo)",
-    "position": 2,
-    "category": "main",
-    "difficulty": "Extreme Demon",
-    "levelId": "DEMO-002",
-    "creator": "Demo Creator",
-    "showcase": "",
-    "description": "Вымышленный уровень. Замените запись реальными данными в JSON перед использованием списка.",
-    "victors": [
-      {
-        "playerId": "demo-player",
-        "percent": 100,
-        "date": "2026-11-22",
-        "video": ""
-      }
-    ]
-  },
-  {
-    "id": "pixel-test-03",
-    "name": "Pixel Burn (demo)",
-    "position": 3,
-    "category": "main",
-    "difficulty": "Extreme Demon",
-    "levelId": "DEMO-003",
-    "creator": "Sample Studio",
-    "showcase": "",
-    "description": "Вымышленная демонстрационная запись.",
+    "levelId": "152158205",
+    "creator": "Ardit",
+    "showcase": "https://youtu.be/FmEs-PiVcnI",
     "victors": []
   },
   {
-    "id": "afterglow-test-04",
-    "name": "Afterglow (demo)",
+    "id": "death-corridor",
+    "name": "Death Corridor",
+    "position": 2,
+    "category": "main",
+    "levelId": "128526616",
+    "creator": "GDeniiZ",
+    "showcase": "https://youtu.be/aC96Zm4kEaA",
+    "victors": []
+  },
+  {
+    "id": "sigareta",
+    "name": "SigaRETA",
+    "position": 3,
+    "category": "main",
+    "levelId": "128426402",
+    "creator": "Ardit",
+    "showcase": "https://youtu.be/ZWQEg7zUxVM",
+    "victors": []
+  },
+  {
+    "id": "singularity",
+    "name": "singularity",
     "position": 4,
     "category": "main",
-    "difficulty": "Insane Demon",
-    "levelId": "DEMO-004",
-    "creator": "Sample Studio",
+    "levelId": "128480238",
+    "creator": "SirFox",
+    "showcase": "https://youtu.be/17OEKXiQ-Ek",
+    "victors": []
+  },
+  {
+    "id": "sakupen-circles-x",
+    "name": "Sakupen Circles X",
+    "position": 5,
+    "category": "main",
+    "levelId": "128480145",
+    "creator": "dlmaw",
+    "showcase": "https://youtu.be/aM4DUzRUvm0",
+    "victors": []
+  },
+  {
+    "id": "apocalypse",
+    "name": "Apocalypse",
+    "position": 6,
+    "category": "main",
+    "levelId": "128563588",
+    "creator": "Ardit",
+    "showcase": "https://youtu.be/7RhymOUSfK4",
+    "victors": []
+  },
+  {
+    "id": "legenda",
+    "name": "LEGENDA",
+    "position": 7,
+    "category": "main",
+    "levelId": "83790169",
+    "creator": "Ardit",
+    "showcase": "https://youtu.be/nVm6ThcIvaA",
+    "victors": []
+  },
+  {
+    "id": "xl-circles",
+    "name": "XL circles",
+    "position": 8,
+    "category": "main",
+    "levelId": "152685614",
+    "creator": "Ardit",
+    "showcase": "https://youtu.be/1LlfmhKYo1s",
+    "victors": []
+  },
+  {
+    "id": "femboy-circles",
+    "name": "FEMBOY CIRCLES",
+    "position": 9,
+    "category": "main",
+    "levelId": "152633245",
+    "creator": "selefeo",
+    "showcase": "https://youtu.be/VfE21w9uHqg",
+    "victors": []
+  },
+  {
+    "id": "rozhler",
+    "name": "Rozhler",
+    "position": 10,
+    "category": "main",
+    "levelId": "68469954",
+    "creator": "danyafox",
+    "showcase": "https://www.youtube.com/watch?v=Oi79am5kmO4",
+    "victors": []
+  },
+  {
+    "id": "pyrolysis",
+    "name": "pyrolysis",
+    "position": 11,
+    "category": "main",
+    "levelId": "144786957",
+    "creator": "Ardit",
     "showcase": "",
-    "description": "Вымышленная демонстрационная запись.",
+    "victors": []
+  },
+  {
+    "id": "firework",
+    "name": "firework",
+    "position": 12,
+    "category": "main",
+    "levelId": "152753375",
+    "creator": "dlmaw",
+    "showcase": "",
+    "victors": []
+  },
+  {
+    "id": "mycropolis",
+    "name": "mycropolis",
+    "position": 13,
+    "category": "main",
+    "levelId": "152633153",
+    "creator": "Ardit",
+    "showcase": "https://youtu.be/VY122C9lPp8",
+    "victors": []
+  },
+  {
+    "id": "the-anomaly",
+    "name": "The Anomaly",
+    "position": 14,
+    "category": "main",
+    "levelId": "128426452",
+    "creator": "Ardit",
+    "showcase": "https://youtu.be/RZhNZbZVtv0",
+    "victors": []
+  },
+  {
+    "id": "troglodyte",
+    "name": "TROGLODYTE",
+    "position": 15,
+    "category": "main",
+    "levelId": "144350184",
+    "creator": "Ardit",
+    "showcase": "",
+    "victors": []
+  },
+  {
+    "id": "tartarus",
+    "name": "Tartarus",
+    "position": 16,
+    "category": "main",
+    "levelId": "152115917",
+    "creator": "selefeo",
+    "showcase": "https://youtu.be/XCRixr_CItg",
+    "victors": []
+  },
+  {
+    "id": "sakupen-circles",
+    "name": "sakupen circles",
+    "position": 17,
+    "category": "main",
+    "levelId": "128602847",
+    "creator": "selefeo",
+    "showcase": "https://youtu.be/WpZM4Jau02k",
+    "victors": []
+  },
+  {
+    "id": "headrush",
+    "name": "Headrush",
+    "position": 18,
+    "category": "main",
+    "levelId": "152686023",
+    "creator": "dlmaw",
+    "showcase": "https://youtu.be/dppKq2AV13s",
+    "victors": []
+  },
+  {
+    "id": "six-cubes",
+    "name": "six cubes",
+    "position": 19,
+    "category": "main",
+    "levelId": "152685922",
+    "creator": "dlmaw",
+    "showcase": "https://youtu.be/OGDalcfR80U",
+    "victors": []
+  },
+  {
+    "id": "new-server",
+    "name": "new server",
+    "position": 20,
+    "category": "main",
+    "levelId": "152753367",
+    "creator": "Ardit",
+    "showcase": "https://youtu.be/sWZH5tGibEs",
+    "victors": []
+  },
+  {
+    "id": "393",
+    "name": "393",
+    "position": 21,
+    "category": "main",
+    "levelId": "152685678",
+    "creator": "Ardit",
+    "showcase": "https://youtu.be/7FxP5foLM7M",
+    "victors": []
+  },
+  {
+    "id": "triplet",
+    "name": "Triplet",
+    "position": 22,
+    "category": "main",
+    "levelId": "152633517",
+    "creator": "GDeniiZ",
+    "showcase": "",
+    "victors": []
+  },
+  {
+    "id": "the-hell-rose",
+    "name": "The hell Rose",
+    "position": 23,
+    "category": "main",
+    "levelId": "128426405",
+    "creator": "4ikysya",
+    "showcase": "",
+    "victors": []
+  },
+  {
+    "id": "arx",
+    "name": "Arx",
+    "position": 24,
+    "category": "main",
+    "levelId": "128526593",
+    "creator": "GDeniiZ",
+    "showcase": "https://youtu.be/xU5T_jFZyvo",
+    "victors": []
+  },
+  {
+    "id": "modern-blossom",
+    "name": "modern blossom",
+    "position": 25,
+    "category": "main",
+    "levelId": "128426408",
+    "creator": "selefeo",
+    "showcase": "https://youtu.be/mPc9w7Pbajs",
+    "victors": []
+  },
+  {
+    "id": "blade-of-gdfc",
+    "name": "blade of gdfc",
+    "position": 26,
+    "category": "main",
+    "levelId": "128480328",
+    "creator": "GDeniiZ",
+    "showcase": "https://youtube.com/shorts/yBOFmYFEpzg?si=cF2bw9loa8ijR_Ki",
     "victors": []
   }
 ]
