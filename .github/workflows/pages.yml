@@ -22,7 +22,7 @@ jobs:
       - name: Prepare site files
         run: |
           mkdir -p _site/data
-          cp index.html level.html player.html players.html app.js ranking.js styles.css icon.jpg _site/
+          cp index.html level.html player.html players.html app.js ranking.js styles.css theme.js icon.jpg _site/
           cp data/*.json _site/data/
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
