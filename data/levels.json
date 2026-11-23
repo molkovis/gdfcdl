@@ -19,7 +19,7 @@
   {
     "id": "death-corridor",
     "name": "Death Corridor",
-    "position": 2,
+    "position": 3,
     "category": "main",
     "levelId": "128526616",
     "creator": "GDeniiZ",
@@ -42,7 +42,7 @@
   {
     "id": "sigareta",
     "name": "SigaRETA",
-    "position": 3,
+    "position": 4,
     "category": "main",
     "levelId": "128426402",
     "creator": "Ardit",
@@ -65,7 +65,7 @@
   {
     "id": "singularity",
     "name": "singularity",
-    "position": 4,
+    "position": 5,
     "category": "main",
     "levelId": "128480238",
     "creator": "SirFox",
@@ -106,7 +106,7 @@
   {
     "id": "sakupen-circles-x",
     "name": "Sakupen Circles X",
-    "position": 5,
+    "position": 6,
     "category": "main",
     "levelId": "128480145",
     "creator": "dlmaw",
@@ -129,7 +129,7 @@
   {
     "id": "apocalypse",
     "name": "Apocalypse",
-    "position": 6,
+    "position": 7,
     "category": "main",
     "levelId": "128563588",
     "creator": "Ardit",
@@ -152,7 +152,7 @@
   {
     "id": "legenda",
     "name": "LEGENDA",
-    "position": 7,
+    "position": 8,
     "category": "main",
     "levelId": "83790169",
     "creator": "Ardit",
@@ -175,7 +175,7 @@
   {
     "id": "xl-circles",
     "name": "XL circles",
-    "position": 8,
+    "position": 9,
     "category": "main",
     "levelId": "152685614",
     "creator": "Ardit",
@@ -198,7 +198,7 @@
   {
     "id": "femboy-circles",
     "name": "FEMBOY CIRCLES",
-    "position": 9,
+    "position": 10,
     "category": "main",
     "levelId": "152633245",
     "creator": "selefeo",
@@ -239,7 +239,7 @@
   {
     "id": "rozhler",
     "name": "Rozhler",
-    "position": 10,
+    "position": 11,
     "category": "main",
     "levelId": "68469954",
     "creator": "danyafox",
@@ -262,7 +262,7 @@
   {
     "id": "pyrolysis",
     "name": "pyrolysis",
-    "position": 11,
+    "position": 12,
     "category": "main",
     "levelId": "144786957",
     "creator": "Ardit",
@@ -279,7 +279,7 @@
   {
     "id": "firework",
     "name": "firework",
-    "position": 12,
+    "position": 13,
     "category": "main",
     "levelId": "152753375",
     "creator": "dlmaw",
@@ -308,7 +308,7 @@
   {
     "id": "mycropolis",
     "name": "mycropolis",
-    "position": 13,
+    "position": 14,
     "category": "main",
     "levelId": "152633153",
     "creator": "Ardit",
@@ -337,7 +337,7 @@
   {
     "id": "the-anomaly",
     "name": "The Anomaly",
-    "position": 14,
+    "position": 15,
     "category": "main",
     "levelId": "128426452",
     "creator": "Ardit",
@@ -360,7 +360,7 @@
   {
     "id": "troglodyte",
     "name": "TROGLODYTE",
-    "position": 15,
+    "position": 16,
     "category": "main",
     "levelId": "144350184",
     "creator": "Ardit",
@@ -377,7 +377,7 @@
   {
     "id": "tartarus",
     "name": "Tartarus",
-    "position": 16,
+    "position": 17,
     "category": "main",
     "levelId": "152115917",
     "creator": "selefeo",
@@ -406,7 +406,7 @@
   {
     "id": "sakupen-circles",
     "name": "sakupen circles",
-    "position": 17,
+    "position": 18,
     "category": "main",
     "levelId": "128602847",
     "creator": "selefeo",
@@ -441,7 +441,7 @@
   {
     "id": "headrush",
     "name": "Headrush",
-    "position": 18,
+    "position": 19,
     "category": "main",
     "levelId": "152686023",
     "creator": "dlmaw",
@@ -470,7 +470,7 @@
   {
     "id": "six-cubes",
     "name": "six cubes",
-    "position": 19,
+    "position": 20,
     "category": "main",
     "levelId": "152685922",
     "creator": "dlmaw",
@@ -493,7 +493,7 @@
   {
     "id": "new-server",
     "name": "new server",
-    "position": 20,
+    "position": 21,
     "category": "main",
     "levelId": "152753367",
     "creator": "Ardit",
@@ -522,7 +522,7 @@
   {
     "id": "393",
     "name": "393",
-    "position": 21,
+    "position": 22,
     "category": "main",
     "levelId": "152685678",
     "creator": "Ardit",
@@ -551,7 +551,7 @@
   {
     "id": "triplet",
     "name": "Triplet",
-    "position": 23,
+    "position": 24,
     "category": "main",
     "levelId": "152633517",
     "creator": "GDeniiZ",
@@ -574,7 +574,7 @@
   {
     "id": "the-hell-rose",
     "name": "The hell Rose",
-    "position": 24,
+    "position": 25,
     "category": "main",
     "levelId": "128426405",
     "creator": "4ikysya",
@@ -597,7 +597,7 @@
   {
     "id": "arx",
     "name": "Arx",
-    "position": 25,
+    "position": 26,
     "category": "main",
     "levelId": "128526593",
     "creator": "GDeniiZ",
@@ -632,7 +632,7 @@
   {
     "id": "modern-blossom",
     "name": "modern blossom",
-    "position": 26,
+    "position": 27,
     "category": "main",
     "levelId": "128426408",
     "creator": "selefeo",
@@ -661,7 +661,7 @@
   {
     "id": "blade-of-gdfc",
     "name": "blade of gdfc",
-    "position": 27,
+    "position": 28,
     "category": "main",
     "levelId": "128480328",
     "creator": "GDeniiZ",
@@ -690,7 +690,7 @@
   {
     "id": "ux",
     "name": "ux",
-    "position": 22,
+    "position": 23,
     "category": "main",
     "difficulty": "demon",
     "levelId": "152827652",
@@ -711,5 +711,17 @@
         "video": ""
       }
     ]
+  },
+  {
+    "id": "new-level-28",
+    "name": "OBOBOBO",
+    "position": 2,
+    "category": "main",
+    "difficulty": "demon",
+    "levelId": "14764574",
+    "creator": "dlmu.88",
+    "showcase": "",
+    "description": "",
+    "victors": []
   }
 ]
