@@ -147,7 +147,7 @@
     "creators": [
       "SakSix"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "apocalypse",
@@ -747,7 +747,7 @@
         "video": ""
       },
       {
-        "playerId": "2",
+        "playerId": "3",
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
@@ -757,12 +757,19 @@
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
+      },
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-23",
+        "video": ""
       }
     ],
     "creators": [
       "selefeo",
       "GDeniiZ",
-      "Ardit"
+      "Ardit",
+      "dlmaw"
     ],
     "verifier": "6"
   },
