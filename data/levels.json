@@ -5,7 +5,6 @@
     "position": 1,
     "category": "main",
     "levelId": "152158205",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/FmEs-PiVcnI",
     "victors": [
       {
@@ -14,7 +13,11 @@
         "date": "2026-11-22",
         "video": "https://youtu.be/FmEs-PiVcnI"
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "death-corridor",
@@ -22,7 +25,6 @@
     "position": 2,
     "category": "main",
     "levelId": "128526616",
-    "creator": "GDeniiZ",
     "showcase": "https://youtu.be/pviDUxHWvxE",
     "victors": [
       {
@@ -37,7 +39,11 @@
         "date": "2026-11-22",
         "video": "https://youtu.be/aC96Zm4kEaA"
       }
-    ]
+    ],
+    "creators": [
+      "GDeniiZ"
+    ],
+    "verifier": ""
   },
   {
     "id": "sigareta",
@@ -45,7 +51,6 @@
     "position": 3,
     "category": "main",
     "levelId": "128426402",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/ZWQEg7zUxVM",
     "victors": [
       {
@@ -60,7 +65,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "singularity",
@@ -68,7 +77,6 @@
     "position": 4,
     "category": "main",
     "levelId": "128480238",
-    "creator": "SirFox",
     "showcase": "https://youtu.be/QR0xpiJ7_t0",
     "victors": [
       {
@@ -101,7 +109,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "SirFox"
+    ],
+    "verifier": ""
   },
   {
     "id": "sakupen-circles-x",
@@ -109,7 +121,6 @@
     "position": 5,
     "category": "main",
     "levelId": "128480145",
-    "creator": "dlmaw",
     "showcase": "https://youtu.be/aM4DUzRUvm0",
     "victors": [
       {
@@ -124,7 +135,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "dlmaw"
+    ],
+    "verifier": ""
   },
   {
     "id": "apocalypse",
@@ -132,7 +147,6 @@
     "position": 6,
     "category": "main",
     "levelId": "128563588",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/7RhymOUSfK4",
     "victors": [
       {
@@ -147,7 +161,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "legenda",
@@ -155,7 +173,6 @@
     "position": 7,
     "category": "main",
     "levelId": "83790169",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/nVm6ThcIvaA",
     "victors": [
       {
@@ -170,7 +187,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "xl-circles",
@@ -178,7 +199,6 @@
     "position": 8,
     "category": "main",
     "levelId": "152685614",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/1LlfmhKYo1s",
     "victors": [
       {
@@ -193,7 +213,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "femboy-circles",
@@ -201,7 +225,6 @@
     "position": 9,
     "category": "main",
     "levelId": "152633245",
-    "creator": "selefeo",
     "showcase": "https://youtu.be/VfE21w9uHqg",
     "victors": [
       {
@@ -234,7 +257,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "selefeo"
+    ],
+    "verifier": ""
   },
   {
     "id": "rozhler",
@@ -242,7 +269,6 @@
     "position": 10,
     "category": "main",
     "levelId": "68469954",
-    "creator": "danyafox",
     "showcase": "https://www.youtube.com/watch?v=Oi79am5kmO4",
     "victors": [
       {
@@ -257,7 +283,11 @@
         "date": "2026-11-22",
         "video": "https://youtu.be/BkepvIwchRY"
       }
-    ]
+    ],
+    "creators": [
+      "danyafox"
+    ],
+    "verifier": ""
   },
   {
     "id": "pyrolysis",
@@ -265,7 +295,6 @@
     "position": 11,
     "category": "main",
     "levelId": "144786957",
-    "creator": "Ardit",
     "showcase": "",
     "victors": [
       {
@@ -274,7 +303,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "firework",
@@ -282,7 +315,6 @@
     "position": 12,
     "category": "main",
     "levelId": "152753375",
-    "creator": "dlmaw",
     "showcase": "",
     "victors": [
       {
@@ -303,7 +335,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "dlmaw"
+    ],
+    "verifier": ""
   },
   {
     "id": "mycropolis",
@@ -311,7 +347,6 @@
     "position": 13,
     "category": "main",
     "levelId": "152633153",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/VY122C9lPp8",
     "victors": [
       {
@@ -332,7 +367,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "the-anomaly",
@@ -340,7 +379,6 @@
     "position": 14,
     "category": "main",
     "levelId": "128426452",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/RZhNZbZVtv0",
     "victors": [
       {
@@ -355,7 +393,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "troglodyte",
@@ -363,7 +405,6 @@
     "position": 15,
     "category": "main",
     "levelId": "144350184",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/aR-f03MsC4o",
     "victors": [
       {
@@ -372,7 +413,11 @@
         "date": "2026-11-22",
         "video": "https://youtu.be/aR-f03MsC4o"
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "tartarus",
@@ -380,7 +425,6 @@
     "position": 16,
     "category": "main",
     "levelId": "152115917",
-    "creator": "selefeo",
     "showcase": "https://youtu.be/XCRixr_CItg",
     "victors": [
       {
@@ -401,7 +445,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "selefeo"
+    ],
+    "verifier": ""
   },
   {
     "id": "sakupen-circles",
@@ -409,7 +457,6 @@
     "position": 17,
     "category": "main",
     "levelId": "128602847",
-    "creator": "selefeo",
     "showcase": "https://youtu.be/WpZM4Jau02k",
     "victors": [
       {
@@ -436,7 +483,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "selefeo"
+    ],
+    "verifier": ""
   },
   {
     "id": "headrush",
@@ -444,7 +495,6 @@
     "position": 18,
     "category": "main",
     "levelId": "152686023",
-    "creator": "dlmaw",
     "showcase": "https://youtu.be/dppKq2AV13s",
     "victors": [
       {
@@ -465,7 +515,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "dlmaw"
+    ],
+    "verifier": ""
   },
   {
     "id": "six-cubes",
@@ -473,7 +527,6 @@
     "position": 19,
     "category": "main",
     "levelId": "152685922",
-    "creator": "dlmaw",
     "showcase": "https://youtu.be/OGDalcfR80U",
     "victors": [
       {
@@ -488,7 +541,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "dlmaw"
+    ],
+    "verifier": ""
   },
   {
     "id": "new-server",
@@ -496,7 +553,6 @@
     "position": 20,
     "category": "main",
     "levelId": "152753367",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/sWZH5tGibEs",
     "victors": [
       {
@@ -517,7 +573,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "393",
@@ -525,7 +585,6 @@
     "position": 21,
     "category": "main",
     "levelId": "152685678",
-    "creator": "Ardit",
     "showcase": "https://youtu.be/7FxP5foLM7M",
     "victors": [
       {
@@ -546,7 +605,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "Ardit"
+    ],
+    "verifier": ""
   },
   {
     "id": "triplet",
@@ -554,7 +617,6 @@
     "position": 23,
     "category": "main",
     "levelId": "152633517",
-    "creator": "GDeniiZ",
     "showcase": "",
     "victors": [
       {
@@ -569,7 +631,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "GDeniiZ"
+    ],
+    "verifier": ""
   },
   {
     "id": "the-hell-rose",
@@ -577,7 +643,6 @@
     "position": 24,
     "category": "main",
     "levelId": "128426405",
-    "creator": "4ikysya",
     "showcase": "",
     "victors": [
       {
@@ -592,7 +657,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "4ikysya"
+    ],
+    "verifier": ""
   },
   {
     "id": "arx",
@@ -600,7 +669,6 @@
     "position": 25,
     "category": "main",
     "levelId": "128526593",
-    "creator": "GDeniiZ",
     "showcase": "https://youtu.be/xU5T_jFZyvo",
     "victors": [
       {
@@ -627,7 +695,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "GDeniiZ"
+    ],
+    "verifier": ""
   },
   {
     "id": "modern-blossom",
@@ -635,7 +707,6 @@
     "position": 26,
     "category": "main",
     "levelId": "128426408",
-    "creator": "selefeo",
     "showcase": "https://youtu.be/mPc9w7Pbajs",
     "victors": [
       {
@@ -656,7 +727,11 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "selefeo"
+    ],
+    "verifier": ""
   },
   {
     "id": "blade-of-gdfc",
@@ -664,7 +739,6 @@
     "position": 27,
     "category": "main",
     "levelId": "128480328",
-    "creator": "GDeniiZ",
     "showcase": "https://youtube.com/shorts/yBOFmYFEpzg?si=cF2bw9loa8ijR_Ki",
     "victors": [
       {
@@ -685,16 +759,18 @@
         "date": "2026-11-22",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "GDeniiZ"
+    ],
+    "verifier": ""
   },
   {
     "id": "ux",
     "name": "ux",
     "position": 22,
     "category": "main",
-    "difficulty": "demon",
     "levelId": "152827652",
-    "creator": "selefeo",
     "showcase": "",
     "description": "",
     "victors": [
@@ -710,6 +786,10 @@
         "date": "2026-11-23",
         "video": ""
       }
-    ]
+    ],
+    "creators": [
+      "selefeo"
+    ],
+    "verifier": ""
   }
 ]

@@ -8,8 +8,14 @@
     "footerCaption": "GDFC · COMMUNITY PROJECT"
   },
   "navigation": {
-    "topLevels": { "label": "Топ уровней", "href": "./#levels" },
-    "topPlayers": { "label": "Топ игроков", "href": "players.html" }
+    "topLevels": {
+      "label": "Топ уровней",
+      "href": "./#levels"
+    },
+    "topPlayers": {
+      "label": "Топ игроков",
+      "href": "players.html"
+    }
   },
   "ranking": {
     "enabled": true,
@@ -19,7 +25,10 @@
     "decayFactor": 0.9583333333333334,
     "maxPosition": 150,
     "mainMaxPosition": 75,
-    "categoryLabels": { "main": "Main List", "extended": "Extended List" },
+    "categoryLabels": {
+      "main": "Main List",
+      "extended": "Extended List"
+    },
     "countOnlyFullCompletions": true,
     "countOnlyFirstCompletion": true
   },
@@ -35,11 +44,22 @@
     "selectPlayerTitle": "Сначала выберите игрока",
     "selectPlayerMessage": "Нажмите на игрока, чтобы посмотреть его профиль",
     "levelsLabel": "Пройденные уровни",
+    "mainLevelsLabel": "Main уровни",
+    "extendedLevelsLabel": "Extended уровни",
+    "verifiedLevelsLabel": "Из которых проверены",
+    "noVerifiedLevels": "Пока нет проверенных уровней.",
+    "recordsTitle": "Рекорды",
     "pageSize": 25,
     "previousPageLabel": "Назад",
     "nextPageLabel": "Вперёд",
     "emptyMessage": "Игроки с зачтёнными прохождениями не найдены.",
-    "columns": { "rank": "Место", "player": "Игрок", "completions": "Уровни", "best": "Лучший уровень", "points": "Очки" },
+    "columns": {
+      "rank": "Место",
+      "player": "Игрок",
+      "completions": "Уровни",
+      "best": "Лучший уровень",
+      "points": "Очки"
+    },
     "topLabel": "ЛИДЕРЫ РЕЙТИНГА",
     "pointsUnit": "очков",
     "completionUnit": "полных прохождений",
@@ -67,21 +87,17 @@
   "list": {
     "emptyMessage": "Ничего не найдено. Попробуй изменить запрос или категорию.",
     "searchPlaceholder": "Найти уровень…",
-    "resultLabel": "уровней",
-    "totalLabel": "уровней в рейтинге",
-    "sideTitle": "Список GDFC",
-    "sideDescription": "Рейтинг демонов сообщества. Данные списка и условия публикации регулируются правилами GDFC.",
-    "victorCountLabel": "победителей",
-    "rowVictorLabel": "прохожд.",
-    "levelCountLabel": "уровней",
-    "pageSize": 20
+    "pageSize": 20,
+    "creatorLabel": "Создатели",
+    "verifierLabel": "Верифер",
+    "unknownVerifier": "Не указан",
+    "pointsLabel": "Баллы за уровень"
   },
   "categories": [
-    { "id": "main", "name": "Main List" }
-  ],
-  "stats": [
-    { "label": "уровней в списке", "value": "levelCount" },
-    { "label": "победителей", "value": "victorCount" }
+    {
+      "id": "main",
+      "name": "Main List"
+    }
   ],
   "footerNote": "Geometry Dash — игра Роберта Топалы. GDFC Demonlist — проект сообщества.",
   "interface": {
@@ -108,17 +124,16 @@
     "aboutTitle": "Об уровне",
     "hallOfFame": "Зал славы",
     "positionLabel": "Позиция",
-    "categoryLabel": "Категория",
-    "difficultyLabel": "Сложность",
     "levelIdLabel": "Geometry Dash ID",
-    "creatorLabel": "Создатель",
-    "createdBy": "Уровень создан",
+    "createdBy": "Создатели",
     "videoLink": "Видео",
     "missingVideo": "Видео не указано",
     "missingValue": "—",
     "levelIdPrefix": "ID",
     "victorRankLabel": "Место",
-    "victorProfileLabel": "Профиль игрока"
+    "victorProfileLabel": "Профиль игрока",
+    "pointsLabel": "Баллы за уровень",
+    "verifiedBy": "Верифицирован"
   },
   "errors": {
     "loadTitle": "Не удалось загрузить список",
