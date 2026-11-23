@@ -551,7 +551,7 @@
   {
     "id": "triplet",
     "name": "Triplet",
-    "position": 22,
+    "position": 23,
     "category": "main",
     "levelId": "152633517",
     "creator": "GDeniiZ",
@@ -574,7 +574,7 @@
   {
     "id": "the-hell-rose",
     "name": "The hell Rose",
-    "position": 23,
+    "position": 24,
     "category": "main",
     "levelId": "128426405",
     "creator": "4ikysya",
@@ -597,7 +597,7 @@
   {
     "id": "arx",
     "name": "Arx",
-    "position": 24,
+    "position": 25,
     "category": "main",
     "levelId": "128526593",
     "creator": "GDeniiZ",
@@ -632,7 +632,7 @@
   {
     "id": "modern-blossom",
     "name": "modern blossom",
-    "position": 25,
+    "position": 26,
     "category": "main",
     "levelId": "128426408",
     "creator": "selefeo",
@@ -661,7 +661,7 @@
   {
     "id": "blade-of-gdfc",
     "name": "blade of gdfc",
-    "position": 26,
+    "position": 27,
     "category": "main",
     "levelId": "128480328",
     "creator": "GDeniiZ",
@@ -683,6 +683,31 @@
         "playerId": "6",
         "percent": 100,
         "date": "2026-11-22",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "id": "ux",
+    "name": "ux",
+    "position": 22,
+    "category": "main",
+    "difficulty": "demon",
+    "levelId": "152827652",
+    "creator": "selefeo",
+    "showcase": "",
+    "description": "",
+    "victors": [
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-23",
+        "video": ""
+      },
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-23",
         "video": ""
       }
     ]
