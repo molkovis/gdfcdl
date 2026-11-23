@@ -15,9 +15,10 @@
       }
     ],
     "creators": [
+      "selefeo",
       "Ardit"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "death-corridor",
@@ -41,9 +42,10 @@
       }
     ],
     "creators": [
-      "GDeniiZ"
+      "GDeniiZ",
+      "SakSix"
     ],
-    "verifier": ""
+    "verifier": "8"
   },
   {
     "id": "sigareta",
@@ -69,7 +71,7 @@
     "creators": [
       "Ardit"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "singularity",
@@ -111,9 +113,9 @@
       }
     ],
     "creators": [
-      "SirFox"
+      "selefeo"
     ],
-    "verifier": ""
+    "verifier": "8"
   },
   {
     "id": "sakupen-circles-x",
@@ -137,7 +139,7 @@
       }
     ],
     "creators": [
-      "dlmaw"
+      "SakSix"
     ],
     "verifier": ""
   },
@@ -163,9 +165,12 @@
       }
     ],
     "creators": [
-      "Ardit"
+      "Ardit",
+      "selefeo",
+      "SirFox",
+      "GDeniiZ"
     ],
-    "verifier": ""
+    "verifier": "8"
   },
   {
     "id": "legenda",
@@ -191,7 +196,7 @@
     "creators": [
       "Ardit"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "xl-circles",
@@ -217,7 +222,7 @@
     "creators": [
       "Ardit"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "femboy-circles",
@@ -261,7 +266,7 @@
     "creators": [
       "selefeo"
     ],
-    "verifier": ""
+    "verifier": "4"
   },
   {
     "id": "rozhler",
@@ -287,7 +292,7 @@
     "creators": [
       "danyafox"
     ],
-    "verifier": ""
+    "verifier": "8"
   },
   {
     "id": "pyrolysis",
@@ -305,9 +310,10 @@
       }
     ],
     "creators": [
-      "Ardit"
+      "Ardit",
+      "selefeo"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "firework",
@@ -337,9 +343,10 @@
       }
     ],
     "creators": [
-      "dlmaw"
+      "dlmaw",
+      "GDeniiZ"
     ],
-    "verifier": ""
+    "verifier": "2"
   },
   {
     "id": "mycropolis",
@@ -371,7 +378,7 @@
     "creators": [
       "Ardit"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "the-anomaly",
@@ -397,7 +404,7 @@
     "creators": [
       "Ardit"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "troglodyte",
@@ -415,9 +422,10 @@
       }
     ],
     "creators": [
-      "Ardit"
+      "Ardit",
+      "selefeo"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "tartarus",
@@ -449,7 +457,7 @@
     "creators": [
       "selefeo"
     ],
-    "verifier": ""
+    "verifier": "4"
   },
   {
     "id": "sakupen-circles",
@@ -487,7 +495,7 @@
     "creators": [
       "selefeo"
     ],
-    "verifier": ""
+    "verifier": "4"
   },
   {
     "id": "headrush",
@@ -519,7 +527,7 @@
     "creators": [
       "dlmaw"
     ],
-    "verifier": ""
+    "verifier": "2"
   },
   {
     "id": "six-cubes",
@@ -545,7 +553,7 @@
     "creators": [
       "dlmaw"
     ],
-    "verifier": ""
+    "verifier": "2"
   },
   {
     "id": "new-server",
@@ -577,7 +585,7 @@
     "creators": [
       "Ardit"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "393",
@@ -609,7 +617,7 @@
     "creators": [
       "Ardit"
     ],
-    "verifier": ""
+    "verifier": "1"
   },
   {
     "id": "triplet",
@@ -633,9 +641,11 @@
       }
     ],
     "creators": [
-      "GDeniiZ"
+      "GDeniiZ",
+      "selefeo",
+      "Ardit"
     ],
-    "verifier": ""
+    "verifier": "6"
   },
   {
     "id": "the-hell-rose",
@@ -661,7 +671,7 @@
     "creators": [
       "4ikysya"
     ],
-    "verifier": ""
+    "verifier": "7"
   },
   {
     "id": "arx",
@@ -697,9 +707,10 @@
       }
     ],
     "creators": [
-      "GDeniiZ"
+      "GDeniiZ",
+      "selefeo"
     ],
-    "verifier": ""
+    "verifier": "6"
   },
   {
     "id": "modern-blossom",
@@ -729,9 +740,11 @@
       }
     ],
     "creators": [
-      "selefeo"
+      "selefeo",
+      "GDeniiZ",
+      "Ardit"
     ],
-    "verifier": ""
+    "verifier": "6"
   },
   {
     "id": "blade-of-gdfc",
@@ -761,9 +774,10 @@
       }
     ],
     "creators": [
-      "GDeniiZ"
+      "GDeniiZ",
+      "selefeo"
     ],
-    "verifier": ""
+    "verifier": "6"
   },
   {
     "id": "ux",
@@ -790,6 +804,6 @@
     "creators": [
       "selefeo"
     ],
-    "verifier": ""
+    "verifier": "2"
   }
 ]
