@@ -110,6 +110,12 @@
         "percent": 100,
         "date": "2026-11-22",
         "video": ""
+      },
+      {
+        "playerId": "8",
+        "percent": 100,
+        "date": "2026-11-23",
+        "video": ""
       }
     ],
     "creators": [
@@ -161,6 +167,12 @@
         "playerId": "2",
         "percent": 100,
         "date": "2026-11-22",
+        "video": ""
+      },
+      {
+        "playerId": "8",
+        "percent": 100,
+        "date": "2026-11-23",
         "video": ""
       }
     ],
@@ -287,10 +299,16 @@
         "percent": 100,
         "date": "2026-11-22",
         "video": "https://youtu.be/BkepvIwchRY"
+      },
+      {
+        "playerId": "8",
+        "percent": 100,
+        "date": "2026-11-23",
+        "video": ""
       }
     ],
     "creators": [
-      "danyafox"
+      "SirFox"
     ],
     "verifier": "8"
   },
@@ -317,7 +335,7 @@
   },
   {
     "id": "firework",
-    "name": "firework",
+    "name": "Firework",
     "position": 12,
     "category": "main",
     "levelId": "152753375",
@@ -344,7 +362,8 @@
     ],
     "creators": [
       "dlmaw",
-      "GDeniiZ"
+      "GDeniiZ",
+      "SakSix"
     ],
     "verifier": "2"
   },
@@ -551,7 +570,8 @@
       }
     ],
     "creators": [
-      "dlmaw"
+      "dlmaw",
+      "SakSix"
     ],
     "verifier": "2"
   },
