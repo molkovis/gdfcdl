@@ -741,7 +741,7 @@
   {
     "id": "modern-blossom",
     "name": "modern blossom",
-    "position": 26,
+    "position": 27,
     "category": "main",
     "levelId": "128426408",
     "showcase": "https://youtu.be/mPc9w7Pbajs",
@@ -768,6 +768,12 @@
         "playerId": "2",
         "percent": 100,
         "date": "2026-11-23",
+        "video": ""
+      },
+      {
+        "playerId": "4",
+        "percent": 100,
+        "date": "2026-11-24",
         "video": ""
       }
     ],
@@ -842,7 +848,7 @@
   {
     "id": "new-level-28",
     "name": "S H I T J U R Y",
-    "position": 27,
+    "position": 26,
     "category": "main",
     "levelId": "124847842",
     "creators": [
@@ -860,6 +866,12 @@
       },
       {
         "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-24",
+        "video": ""
+      },
+      {
+        "playerId": "4",
         "percent": 100,
         "date": "2026-11-24",
         "video": ""
