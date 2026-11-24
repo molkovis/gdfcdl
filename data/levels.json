@@ -776,7 +776,7 @@
   {
     "id": "blade-of-gdfc",
     "name": "blade of gdfc",
-    "position": 27,
+    "position": 28,
     "category": "main",
     "levelId": "128480328",
     "showcase": "https://youtube.com/shorts/yBOFmYFEpzg?si=cF2bw9loa8ijR_Ki",
@@ -832,5 +832,32 @@
       "selefeo"
     ],
     "verifier": "2"
+  },
+  {
+    "id": "new-level-28",
+    "name": "S H I T J U R Y",
+    "position": 27,
+    "category": "main",
+    "levelId": "124847842",
+    "creators": [
+      "dlmaw"
+    ],
+    "verifier": "2",
+    "showcase": "",
+    "description": "",
+    "victors": [
+      {
+        "playerId": "2",
+        "percent": 100,
+        "date": "2026-11-24",
+        "video": ""
+      },
+      {
+        "playerId": "1",
+        "percent": 100,
+        "date": "2026-11-24",
+        "video": ""
+      }
+    ]
   }
 ]
