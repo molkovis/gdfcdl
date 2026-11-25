@@ -470,7 +470,7 @@
         "playerId": "2",
         "percent": 100,
         "date": "2026-11-22",
-        "video": ""
+        "video": "https://youtu.be/XCRixr_CItg"
       },
       {
         "playerId": "1",
@@ -847,7 +847,7 @@
   },
   {
     "id": "new-level-28",
-    "name": "S H I T J U R Y",
+    "name": "s h i t j u r y",
     "position": 26,
     "category": "main",
     "levelId": "124847842",
